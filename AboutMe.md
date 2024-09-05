@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @DaniMarchie
-- 👀 I’m interested in creating games
+- 👀 I’m interested in creating games and movies.
 - 🌱 I’m currently learning coding
-- 📫 How to reach me on discord (metalpieceocean) or text message (+1 430-333-4414)
+- 📫 How to reach me on Discord (MissWonderlands)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have five  dogs I guess??
+- ⚡ Fun fact: I have five dogs
 
 <!---
 DaniMarchie/DaniMarchie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
